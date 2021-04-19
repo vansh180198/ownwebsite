@@ -1,0 +1,47 @@
+.cards{
+    padding: 4rem;
+    background:white;
+   
+}
+
+.cards-container{
+
+  background-color: whitesmoke;
+  border-radius: 20px;
+  text-align: center;
+
+}
+.cards-items{
+    /* margin-bottom: 24px; */
+    display: flex;
+    flex-direction: column;
+   
+    margin: 0 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+   
+}
+
+#heading{
+   
+    color: black;
+    font-size: 5vw;
+    margin-bottom: 40px;
+}
+.cards-wrapper {
+    position: relative;
+    
+    
+    
+  }
+  .container-1{
+      justify-content: space-evenly;
+      display: flex;
+      
+      
+  }
+  .container-2{
+      display: flex;
+      justify-content: space-evenly;
+  }
+  

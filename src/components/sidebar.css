@@ -1,0 +1,20 @@
+.sidebar{
+    position: absolute;
+    top: 57px;
+  width: 300px;
+  height: 100px;
+  transform: translateX(-45%);
+  background-color: grey;
+  padding: 1rem;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.item{
+    
+    list-style: none;
+}
+.item:hover{
+    color: coral;
+    font-weight: bolder;
+    border-bottom:crimson;
+}
